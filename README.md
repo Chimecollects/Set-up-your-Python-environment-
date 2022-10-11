@@ -6,4 +6,5 @@ Python is among the Top-List of high-level programming language
 WALKTHROUGH 
 * Python installation 
 * IDLE (integrated Development Environment)
-* Books to Read
+* Python Tutorials
+* Books to read
